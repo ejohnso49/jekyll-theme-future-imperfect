@@ -1,5 +1,5 @@
 # jekyll-theme-future-imperfect
-A Jekyll adaptation of the Future Imperfect theme by HTML5 UP. See (Credits)[#credits] for more info.
+A Jekyll adaptation of the Future Imperfect theme by HTML5 UP. See [Credits](#credits) for more info.
 
 ## Installation
 Add this line to your Jekyll site's `Gemfile`:
