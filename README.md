@@ -74,14 +74,14 @@ The theme currently is very simple, lacking features found in other themes. The 
 
 Looking at other themes here are some potential ideas:
 
-- Add styling to the Sass assets for syntax highlighting
-- Port the theme to use CSS Grid
-- Figure out how to expose the palette vars for theme customization
-- Add integration with analytics
-- Add integration with comments
-- Add integration with social media
-- Add integration with search
-- Figure out a way to avoid hardcoding image paths so that users can structure their project as they like
+- [ ] Add styling to the Sass assets for syntax highlighting
+- [ ] Port the theme to use CSS Grid
+- [ ] Figure out how to expose the palette vars for theme customization
+- [ ] Add integration with analytics
+- [ ] Add in  tegration with comments
+- [ ] Add integration with social media
+- [ ] Add integration with search
+- [ ] Figure out a way to avoid hardcoding image paths so that users can structure their project as they like
 
 I am planning on using this theme for my own personal site so hopefully this keep me committed to completing these TODOs.
 
